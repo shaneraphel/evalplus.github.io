@@ -1503,8 +1503,8 @@
     "link": "https://github.com/shaneraphel/aletheia",
     "open-data": "NONE",
     "pass@1": {
-      "humaneval": null,
-      "humaneval+": null,
+      "humaneval": 98.2,
+      "humaneval+": 93.9,
       "mbpp": 100.0,
       "mbpp+": 87.0
     },
